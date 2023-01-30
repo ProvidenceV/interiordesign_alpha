@@ -123,6 +123,7 @@ As a user, I want to be able to find inspiration in other designs so that I can 
 ---
 # Class Diagram
 Show data classes (DTOs), Activities, Fragments, MVVM, etc.
+![image](https://user-images.githubusercontent.com/37315934/215369023-e64f71f1-4337-41e4-89fe-c18497890f4b.png)
 
 
 # Class Diagram Description
@@ -147,13 +148,8 @@ As long as you have these stories listed as Projects in GitHub, I can look at yo
 ---
 # A scrum or kanban board, using GitHub projects (preferred), Trello, Scrumy.com, or something similar, that contains:
 
-A milestone for Sprint #1, with tasks associated.
-Tasked stories for Sprint #1
-Sprint tasks that elaborate on the stories, with technical details.
-These should be technical tasks that are required to implement one of the features.
-You only need to task out stories for Sprint #1.  You can task out stories for Sprint #2 and #3 as we get closer to those sprints.
-The Product Owner/Scrum Master/DevOps person on your team should select stories to play for each sprint, from the list of available stories in the Product Backlog.
-As long as you have the tasks in GitHub Projects, under Projects, and associated with milestones, you do not need to repeat them in the design doc.  I'll look at the Project and Milestone view to see them.
+View Github Projects:
+https://github.com/users/ProvidenceV/projects/1/views/1
 ---
 # Scrum Roles, and who will fill those roles
 DevOps/Product Owner/Scrum Master: Alexander Grisby
